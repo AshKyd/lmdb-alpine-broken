@@ -1,0 +1,8 @@
+{
+  "name": "ash.ms",
+  "version": "1.0.5",
+  "private": true,
+  "dependencies": {
+    "lmdb": "^2.7.11"
+  }
+}
